@@ -7,6 +7,7 @@
                 Age : 20.
             </h1>
             <h1>Phone: 097499993</h1>
+            <P>Sl ke tae eng vetanea nas</P>
         </div>
     </div>
 </template>
